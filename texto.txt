@@ -1,0 +1,5 @@
+•	main.py: Código principal del bot.
+	•	requirements.txt: Lista de dependencias necesarias.
+	•	Procfile: Archivo que indica a Render cómo ejecutar tu bot.
+	•	.env.example: Archivo de ejemplo para las variables de entorno.
+	•	render.yaml: Archivo de configuración para el despliegue en Render.
